@@ -20,9 +20,7 @@ This app is built using the MERN stack with a React front end, MongoDB database,
 - [Technologies-Used](#technologies-used)
 
 - [Installation](#installation)
-
-- [Usage](#usage)
-
+  
 - [Live-URL](#live-url)
 
 - [Screenshots](#screenshots)
@@ -48,4 +46,13 @@ This application is powered by JavaScript. It uses React.js , Node.js , Express.
 * Clone the repository
 * run npm i/ npm install within the root directory of the terminal
 * enter npm run develop
+
+## Live URL
+
+[Link to live URL](https://peaceful-cliffs-64006-07c8bed4e4be.herokuapp.com/)
+
+## Screenshots
   
+![book-search](https://github.com/SwathiVinod19/Book-Search/assets/129353324/902a9358-9707-4b64-ba62-b053e4b10b1e)
+![book-search-two](https://github.com/SwathiVinod19/Book-Search/assets/129353324/64a7cfcc-0ed6-421c-a0df-ae50fd12c33c)
+
