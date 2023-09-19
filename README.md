@@ -44,3 +44,8 @@ This application is covered under the MIT License
 This application is powered by JavaScript. It uses React.js , Node.js , Express.js, GraphQL, and ApolloServer. CSS and Bootstrap were utilized to create the overall styling of the user interface.
 
 ## Installation
+
+* Clone the repository
+* run npm i/ npm install within the root directory of the terminal
+* enter npm run develop
+  
